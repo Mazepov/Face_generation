@@ -11,5 +11,8 @@ Neural Network Model for Face Generation
 
 ![Faces_gen](https://user-images.githubusercontent.com/106436340/196918293-fe977a80-a94c-4a07-88a6-1f8db7d4ee0c.gif)
 
+В репозиторий добавлен файл с весами генератора, для возможности просмотра работы модели без повторного обучения.
 
+Результат работы моделе представлен ниже (сгенерированное лицо)
 
+![Face_1](https://user-images.githubusercontent.com/106436340/196919149-b479bcb8-a2f8-45ea-b05f-534097190d82.png)
