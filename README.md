@@ -6,7 +6,7 @@ Neural Network Model for Face Generation
 
 Была выбрана нейронная сеть DCGAN (Deep Convolutional GAN).
 
-Принцип работы DCGAN описан во многих ресурсах, ниже представлена архитектура генератора модели.
+Принцип работы DCGAN описан во многих ресурсах (https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html), ниже представлена архитектура генератора модели.
 
 ![dcgan_generator](https://user-images.githubusercontent.com/106436340/196920180-9a4d30c8-9da6-4e1f-9091-7eeb7db92876.png)
 
